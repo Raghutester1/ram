@@ -8,7 +8,9 @@ public class AshTable {
 	private void test1() {
     String s ="raghu";
     
+    
     System.out.println("saver");
+    System.out.println("avenger");
 	}
 	
 }
